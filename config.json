@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.ip",
-	"port": "25565",
-	"name": "afkbot1",
+	"ip":"bearsmp3.aternos.me",
+	"port": "28334",
+	"name": "AFK",
 	"auto-night-skip":"true"
 }
